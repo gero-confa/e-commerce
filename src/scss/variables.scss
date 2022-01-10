@@ -1,5 +1,13 @@
-$color-prim: black;
-$color-sec: white;
-$color-prim-soft: blue;
-$color-sec-soft: pink;
-$color-alert: yellow;
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;1,500&family=Karla:ital,wght@0,200;0,400;0,700;0,800;1,300;1,800&display=swap');
+
+$color-prim: rgba(152, 221, 155, 0.925);
+$color-sec: rgba(196, 248, 205, 0.87);
+$color-text: #0a0908ff;
+$color-back: #d9cdceff;
+$color-contrast: rgb(183, 167, 187);
+
+$font-title: 'Be Vietnam Pro', sans-serif;
+$font-desc: 'Karla', sans-serif;
+$font-price: 'Be Vietnam Pro', sans-serif;
+$font-important: 'Be Vietnam Pro', sans-serif;
+$font-login: 'Karla', sans-serif;
